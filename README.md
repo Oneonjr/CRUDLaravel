@@ -1,7 +1,5 @@
 
-## CRUD Laravel Simples
-
-[![Teste Laravel ](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/Oneonjr/CRUDLaravel/actions/workflows/laravel.yml)
+## CRUD Laravel
 
 Um projeto simples de CRUD (Create, Read, Update, Delete) roando em uma aplicação Laravel usando o template do Blade, Arquitetura **MVC** e **Orientação a Objetos**
 
